@@ -1,16 +1,13 @@
-## Hi there 👋
+# Murilo Gehlen
 
-<!--
-**MuriloGehlen/MuriloGehlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Murilo Gehlen, tenho 19 anos e sou natural do Rio Grande do Sul, conclui o ensino médio no Colégio Tiradentes da Brigada Militar de Santa Maria (CTBM-SM) e atualmente estou no 1º semestre de Sistemas de Informação na Antonio Meneghetti Faculdade além de estudar Cybersegurança de forma autônoma nas horas vagas. Sou apaixonado por tecnologia e busco melhora constante e diária, sempre atrás de conhecimento e muito empolgado para construir uma próspera carreira na área da técnologia.
+### 📊 Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
