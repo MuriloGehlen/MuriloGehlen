@@ -1,6 +1,7 @@
 # Murilo Gehlen
+Me chamo Murilo Gehlen, tenho 19 anos e sou do Rio Grande do Sul. Concluí o ensino médio no Colégio Tiradentes da Brigada Militar de Santa Maria (CTBM-SM) e atualmente curso o 1º semestre de Sistemas de Informação na Antonio Meneghetti Faculdade.
 
-Me chamo Murilo Gehlen, tenho 19 anos e sou natural do Rio Grande do Sul, conclui o ensino médio no Colégio Tiradentes da Brigada Militar de Santa Maria (CTBM-SM) e atualmente estou no 1º semestre de Sistemas de Informação na Antonio Meneghetti Faculdade além de estudar Cybersegurança de forma autônoma nas horas vagas. Sou apaixonado por tecnologia e busco melhora constante e diária, sempre atrás de conhecimento e muito empolgado para construir uma próspera carreira na área da técnologia.
+Sou apaixonado por tecnologia, com foco em cibersegurança, área que também estudo de forma autônoma no meu tempo livre. Busco evolução constante, sempre em busca de novos conhecimentos e desafios para construir uma carreira sólida na área de tecnologia.
 
 ### 📊 Estatísticas
 
