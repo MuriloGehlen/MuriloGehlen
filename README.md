@@ -1,17 +1,22 @@
 # Murilo Gehlen
-Me chamo Murilo Gehlen, tenho 19 anos e sou do Rio Grande do Sul. Concluí o ensino médio no Colégio Tiradentes da Brigada Militar de Santa Maria (CTBM-SM) e atualmente curso o 2º semestre de Sistemas de Informação na Antonio Meneghetti Faculdade.
 
-Sou apaixonado por tecnologia, com foco em cibersegurança, área que também estudo de forma autônoma no meu tempo livre. Busco evolução constante, sempre em busca de novos conhecimentos e desafios para construir uma carreira sólida na área de tecnologia.
+Sou apaixonado por tecnologia e tenho interesse especial em cibersegurança, área que também estudo de forma autônoma no meu tempo livre. Busco desenvolver uma base sólida em tecnologia por meio de estudos e projetos práticos.
 
-### 📊 Estatísticas
+Atualmente, estou fortalecendo meus fundamentos de programação com Python e desenvolvendo projetos práticos envolvendo software, automação, Linux e servidores.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MuriloGehlen&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## Tecnologias e ferramentas
 
-</p>
+**Programação**
+- Python
+
+**Sistemas e infraestrutura**
+- Linux / Ubuntu Server
+- Docker (básico)
+- Portainer
+- Pterodactyl
+- Nextcloud
+
+**Hardware e automação**
+- Arduino / ESP32
+- Sensores
+- Servomotores
