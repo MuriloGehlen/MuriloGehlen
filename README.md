@@ -11,7 +11,7 @@ Atualmente, estou fortalecendo meus fundamentos de programação com Python e de
 
 **Sistemas e infraestrutura**
 - Linux / Ubuntu Server
-- Docker (básico)
+- Docker
 - Portainer
 - Pterodactyl
 - Nextcloud
